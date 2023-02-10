@@ -210,7 +210,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderWidth: 1,
     borderRadius: 8,
-    fontFamily: "RobotoRegular",
+    fontFamily: "Roboto",
 
     color: "#212121",
   },
@@ -224,7 +224,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     lineHeight: 19,
     color: "#1B4371",
-    fontFamily: "RobotoRegular",
+    fontFamily: "Roboto",
   },
 
   button: {
@@ -246,6 +246,6 @@ const styles = StyleSheet.create({
     marginBottom: 110,
     textAlign: "center",
     color: "#1B4371",
-    fontFamily: "RobotoRegular",
+    fontFamily: "Roboto",
   },
 });
